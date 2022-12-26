@@ -1,0 +1,7 @@
+﻿  test.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Gleb\source\repos\test\test\test.cpp(9,5): error C2653: 'filesystem': is not a class or namespace name
+C:\Users\Gleb\source\repos\test\test\test.cpp(9,17): error C2065: 'path': undeclared identifier
+C:\Users\Gleb\source\repos\test\test\test.cpp(9,22): error C2146: syntax error: missing ';' before identifier 'pathToFile'
+C:\Users\Gleb\source\repos\test\test\test.cpp(9,22): error C3861: 'pathToFile': identifier not found
+C:\Users\Gleb\source\repos\test\test\test.cpp(10,18): error C2065: 'pathToFile': undeclared identifier
